@@ -1,3 +1,10 @@
+/********************************************************************/
+/*    Parallel KMeans using MPI project 2013                        */
+/*                                                                  */
+/*    Implemented by Nikos Katirtzis (nikos912000)                  */
+/********************************************************************/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
